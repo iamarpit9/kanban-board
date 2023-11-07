@@ -1,4 +1,4 @@
-import { Column, Task } from "@/types";
+import { Task } from "@/types";
 import React, { useId, useMemo, useState } from "react";
 import ColumnContainer from "./ColumnContainer";
 import {
