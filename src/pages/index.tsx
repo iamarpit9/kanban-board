@@ -1,4 +1,4 @@
-import KanbanBoard from "@/Components/KanbanBoard";
+import KanbanBoard from "@/components/KanbanBoard";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
